@@ -1,6 +1,8 @@
 RENCANA KONTEN RIZKI
 
 -Javascript
+*ES6
+*framework Javascript
 -php framworks
 -interview
 -vlogs
